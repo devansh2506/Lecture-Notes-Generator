@@ -1,1 +1,1 @@
-# lecture_notes_generator
+# Lecture Notes Generator
