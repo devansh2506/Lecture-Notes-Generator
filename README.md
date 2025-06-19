@@ -37,6 +37,9 @@ The final output is a clean, structured list of study notes formatted using numb
 ## Acknowledgements
 
 OpenAI Whisper: For accurate audio transcription.
+
 Google Gemini API: For generating structured and intelligent notes from raw transcripts.
+
 MoviePy: For video/audio processing.
+
 Colab: For providing a simple and free cloud environment for development.
